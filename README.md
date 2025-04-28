@@ -25,17 +25,7 @@ O enunciado do trabalho pode ser encontrado aqui:
    [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
 
 3. **Estrutura de Pastas:**  
-   ```
-   src/
-     aluno/
-     disciplina/
-     turma/
-     avaliacao/
-     frequencia/
-     utils/
-   arquivos/
-   Main.java
-   ```
+   [Descrever aqui as principais pastas do projeto]
 
 3. **Versão do JAVA utilizada:**
    [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
