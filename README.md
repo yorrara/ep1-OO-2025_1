@@ -27,7 +27,7 @@ O enunciado do trabalho pode ser encontrado aqui:
 3. **Estrutura de Pastas:**  
    [Descrever aqui as principais pastas do projeto]
 
-3. **Versão do JAVA utilizada:**
+3. **Versão do JAVA utilizada:**  
    [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
 
 ---
