@@ -29,6 +29,7 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 3. **Versão do JAVA utilizada:**
    [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+
 ---
 
 ## Vídeo de Demonstração
