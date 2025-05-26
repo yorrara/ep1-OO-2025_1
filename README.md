@@ -9,26 +9,30 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 ## Dados do Aluno
 
-- **Nome completo:** [Preencher aqui]
-- **Matrícula:** [Preencher aqui]
-- **Curso:** [Preencher aqui]
-- **Turma:** [Preencher aqui]
+- **Nome completo:** Rayca Yorrara Leite dos Santos
+- **Matrícula:** 241025846
+- **Curso:** Engenharia de Softaware 3 Semestre
+- **Turma:** Turma 06
 
 ---
 
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+Não é necessário compilar manualmente.. O Eclipse compila automaticamente o código-fonte .java
 
 2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+   Clique com o botão direito no arquivo Main.java. Selecione a opção Run As → Java Application.
 
 3. **Estrutura de Pastas:**  
-   [Descrever aqui as principais pastas do projeto]
+  src/ → Pasta onde ficam todos os arquivos .java organizados por pacotes.
+
+sistema/completo/menus/ → Pacote onde ficam as classes relacionadas aos menus (ex.: MenuAluno.java, SistemaAcademico2.java, etc).
+
+modelo/ → Pacote onde ficam as classes de modelo de dados (ex.: Aluno.java, Disciplina.java, Turma.java, etc).
 
 3. **Versão do JAVA utilizada:**  
-   [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+  java 21
 
 ---
 
@@ -41,36 +45,37 @@ O enunciado do trabalho pode ser encontrado aqui:
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Inserir Print 1](caminho/do/print1.png)
+   ![Inserir Print 1](./print1.jpeg)
 
-2. Cadastro de Aluno:  
-   ![Inserir Print 2](caminho/do/print2.png)
+2. Modo aluno:  
+   ![Inserir Print 2](./print2.jpeg)
 
-3. Relatório de Frequência/Notas:  
-   ![Inserir Print 3](caminho/do/print3.png)
+3. Modo Aluno:  
+   ![Inserir Print 3](./print3.jpeg)
 
 ---
 
 ## Principais Funcionalidades Implementadas
 
-- [ ] Cadastro, listagem, matrícula e trancamento de alunos (Normais e Especiais)
-- [ ] Cadastro de disciplinas e criação de turmas (presenciais e remotas)
-- [ ] Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
+-  [x] Cadastro, listagem, matrícula ~~e trancamento~~ de alunos (Normais e Especiais)
+- [x] Cadastro de disciplinas e criação de turmas ~~(presenciais e remotas)~~
+- [x] Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
 - [ ] Lançamento de notas e controle de presença
 - [ ] Cálculo de média final e verificação de aprovação/reprovação
 - [ ] Relatórios de desempenho acadêmico por aluno, turma e disciplina
 - [ ] Persistência de dados em arquivos (.txt ou .csv)
-- [ ] Tratamento de duplicidade de matrículas
-- [ ] Uso de herança, polimorfismo e encapsulamento
+- [x] Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
+- [x] Tratamento de duplicidade de matrículas
+- [x] Uso de herança, polimorfismo e encapsulamento
 
 ---
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
+- Tive dificuldade com relação ao tempo prosposto para realizar o trabalho devido as demais materias que devia estudar. Por isso o trabalho está incompleto.
 
 ---
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+- [Opcional: E-mail pessoal do aluno: Ryorrara@gmail.com.]
